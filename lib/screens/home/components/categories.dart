@@ -1,7 +1,7 @@
 // we need statefull widget for our categories
 import 'package:flutter/material.dart';
 
-import '../constants.dart';
+import '../../../constants.dart';
 
 class Categories extends StatefulWidget {
   @override

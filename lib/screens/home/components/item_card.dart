@@ -1,7 +1,7 @@
 import 'package:e_commerce_bags/models/Product.dart';
 import 'package:flutter/material.dart';
 
-import '../constants.dart';
+import '../../../constants.dart';
 
 class ItemCard extends StatelessWidget {
   final Product product;
