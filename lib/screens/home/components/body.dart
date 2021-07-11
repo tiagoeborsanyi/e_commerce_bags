@@ -1,5 +1,6 @@
 import 'package:e_commerce_bags/constants.dart';
 import 'package:e_commerce_bags/models/Product.dart';
+import 'package:e_commerce_bags/screens/details/details_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'categories.dart';
@@ -35,6 +36,13 @@ class Body extends StatelessWidget {
               ),
               itemBuilder: (context, index) => ItemCard(
                 product: products[index],
+                press: () => Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => DetailScreen(
+                        product: products[index],
+                      ),
+                    )),
               ),
             ),
           ),
