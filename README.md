@@ -5,5 +5,7 @@ Reference layout of youtube
 > Layouts:
 
 ![Imagem do layout](/ecommerce-bags.png "Home")
-/n
+
+<br />
+
 ![Imagem do layout](/ecommerce-bags-2.png "view bag")
