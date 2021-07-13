@@ -1,3 +1,7 @@
 # e_commerce_bags
 
-init project
+Reference layout of youtube
+> Layouts:
+
+![Imagem do layout](/ecommerce-bags.png "Home")
+![Imagem do layout](/ecommerce-bags-2.png "view bag")
